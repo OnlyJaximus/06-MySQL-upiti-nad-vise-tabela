@@ -2,6 +2,8 @@
 MySQL upiti nad vise tabela
 
 ![1](https://user-images.githubusercontent.com/56784702/210150274-03a34b3e-fb62-4e7c-b324-0c9913e3200d.png)
+![res 1](https://user-images.githubusercontent.com/56784702/210150475-c46a2eb1-a966-4568-b146-fe6ddc552842.png)
+
 ![zadaci text](https://user-images.githubusercontent.com/56784702/210150289-f2adb1b3-b915-448f-91c9-a4b78c7c1793.png)
 
 ![1 b](https://user-images.githubusercontent.com/56784702/210150300-e01a61d3-f9aa-4c4d-ad39-c9bb1394df8a.png)
