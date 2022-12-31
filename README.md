@@ -3,7 +3,7 @@ MySQL upiti nad vise tabela
 
 ![1](https://user-images.githubusercontent.com/56784702/210150274-03a34b3e-fb62-4e7c-b324-0c9913e3200d.png)
 ![zadaci text](https://user-images.githubusercontent.com/56784702/210150289-f2adb1b3-b915-448f-91c9-a4b78c7c1793.png)
-![1 a](https://user-images.githubusercontent.com/56784702/210150296-61958424-9269-4b91-9f91-757bee312453.png)
+
 ![1 b](https://user-images.githubusercontent.com/56784702/210150300-e01a61d3-f9aa-4c4d-ad39-c9bb1394df8a.png)
 ![2](https://user-images.githubusercontent.com/56784702/210150301-a9b5b486-813a-48fb-8a9d-28f9d9831947.png)
 ![3](https://user-images.githubusercontent.com/56784702/210150304-b7a6cb66-f7c4-4fd9-87b8-1d97bcf9eeb8.png)
